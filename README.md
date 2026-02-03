@@ -6,7 +6,7 @@ A beautiful glassmorphism-style toast notification for Flutter.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isanghyeog/glass_toast/main/screenshots/demo.gif" width="300" alt="Glass Toast Demo">
+  <img src="https://raw.githubusercontent.com/sanghyeoklee-cell/glass_toast/master/screenshots/demo.png" width="400" alt="Glass Toast Demo">
 </p>
 
 ## Features
