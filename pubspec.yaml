@@ -1,6 +1,9 @@
 name: glass_toast
 description: A beautiful glassmorphism-style toast notification for Flutter. Supports info, success, warning, and error styles with smooth animations.
 version: 0.0.1
+homepage: https://github.com/sanghyeoklee-cell/glass_toast
+repository: https://github.com/sanghyeoklee-cell/glass_toast
+issue_tracker: https://github.com/sanghyeoklee-cell/glass_toast/issues
 
 environment:
   sdk: ^3.5.0
