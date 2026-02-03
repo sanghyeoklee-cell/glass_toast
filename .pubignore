@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Other
+.DS_Store
+*.log
